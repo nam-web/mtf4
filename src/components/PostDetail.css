@@ -1,0 +1,11 @@
+.post-detail-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.post-detail-container img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
